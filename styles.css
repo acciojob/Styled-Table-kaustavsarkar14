@@ -1,1 +1,8 @@
 /* your code */
+tr:nth-child(odd) {
+            background-color: grey;
+        }
+
+th {
+	background:lightblue;
+}
